@@ -1,4 +1,4 @@
-# SmsSpamFilter
+# SMS Spam Filter
 Classifying Spam/Not-Spam Messages Using Neural Networks in Python Tensorflow
 
 **Author:** Merav Leveson
